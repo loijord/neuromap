@@ -44,11 +44,11 @@ There is a basic example that demonstrates usage of `neuromap` class instance:
 ### Output
 This is an output (also of `neuro/neuro.py`):
 
-![](neuro\neuro_output.png)
+![](neuro/neuro_output.png)
 
 Another fancy proof schema of mathematical formula `(a^n)^m = a^(nm)` of `neuro1/neuro.py`:
 
-![](neuro1\neuro_output.png)
+![](neuro1/neuro_output.png)
 
 
 
